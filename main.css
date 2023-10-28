@@ -1,0 +1,12 @@
+.courses{
+ background-color: aliceblue;
+ text-align: center;
+ height: 500px;
+
+}
+.course{
+    display: inline-block;
+    width: 20%;
+    background-color:blueviolet;
+   
+}
